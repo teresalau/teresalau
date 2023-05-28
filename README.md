@@ -1,9 +1,8 @@
 ### Hi there 👋 Welcome to my GitHub! 
-🌱 I’m currently studying Data Science & UX Design @ University of Toronto
-👯 I’m looking to collaborate on any data science projects! 
-🔭 I’m passionate about helping others to make better decisions with the power of data
-📫 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/teresacmlau/)
-
+- 🌱 I’m currently studying Data Science & UX Design @ University of Toronto
+- 👯 I’m looking to collaborate on any data science projects! 
+- 🔭 I’m passionate about helping others to make better decisions with the power of data
+- 📫 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/teresacmlau/)
 
 <!--
 **teresalau/teresalau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my GitHub! 
-- 🌱 I’m currently doing my Master of Information in Data Science & UX Design @ University of Toronto
+- 🌱 I’m currently doing my Master of Information in Data Science & UX Design @ University of Toronto (Class of 2024)
 - 🔭 I’m passionate about helping others to make better decisions with the power of data
 - 👯 I’m looking to collaborate on any data science projects! 
 - 📫 Feel free to message me on [LinkedIn](https://www.linkedin.com/in/teresacmlau/)
